@@ -9073,6 +9073,9 @@ textarea.form-control {
 .ftco-no-pt {
   padding-top: 0 !important; }
 
+.ftco-low-pt {
+  padding-top: 16px !important; }
+
 .ftco-no-pb {
   padding-bottom: 0 !important; }
 
